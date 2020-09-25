@@ -1,4 +1,4 @@
-console.log("heyyyy")
+console.log("hey")
 
 let filter = document.querySelector("#filter")
 
